@@ -1,7 +1,7 @@
 # Boomerang Maker
 Creates boomerang video from a source video file
 
-<div style="display: flex; justify-content: space-around; gap: 20px">
+<div style="display: flex; gap: 0px">
     <div>
         <h3>Original</h3>
         <img src="img/output_video_1.5s.gif" alt="First GIF" style="max-width: 80%;">
