@@ -5,11 +5,11 @@ Creates boomerang video from a source video file. Edit images and creates repeat
     <tr>
         <td>
             <h3>Original</h3>
-            <img src="img/output_video_1.5s.gif" alt="First GIF" style="max-width: 80%; border: none;">
+            <img src="artifact/input_video_1.5s.gif" alt="original" style="max-width: 80%; border: none;">
         </td>
         <td>
             <h3>Boomerang</h3>
-            <img src="img/output_video_0.8s_concat.gif" alt="Second GIF" style="max-width: 80%; border: none;">
+            <img src="artifact/output_video_0.8s_concat.gif" alt="boomerang" style="max-width: 80%; border: none;">
         </td>
     </tr>
 </table>
@@ -51,4 +51,4 @@ python video_processing.py <input_file> <output_file> [--start_time START_TIME] 
 python boomerang_maker.py "input_file.mp4" "output_file.mp4" --start_time 0 --end_time 0.8 --x_offset 200 --y_offset 100 --repetition 2 --playback_speed 0.8
 ```
 
-This command will process the `whatsapp_hello_vid.mp4` video file and save the output to `output_video.mp4` with the specified parameters.
+This command will process the `input_file.mp4` video file and save the output to `output_file.mp4` with the specified parameters.
