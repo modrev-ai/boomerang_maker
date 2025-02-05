@@ -1,15 +1,13 @@
 # Boomerang Maker
-Creates boomerang video from a source video file
-
-<table>
+<table style="border: none;">
     <tr>
         <td>
             <h3>Original</h3>
-            <img src="img/output_video_1.5s.gif" alt="First GIF" style="max-width: 80%;">
+            <img src="img/output_video_1.5s.gif" alt="First GIF" style="max-width: 80%; border: none;">
         </td>
         <td>
             <h3>Boomerang</h3>
-            <img src="img/output_video_0.8s_concat.gif" alt="Second GIF" style="max-width: 80%;">
+            <img src="img/output_video_0.8s_concat.gif" alt="Second GIF" style="max-width: 80%; border: none;">
         </td>
     </tr>
 </table>
