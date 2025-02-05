@@ -1,4 +1,6 @@
 # Boomerang Maker
+Creates boomerang video from a source video file. Edit images and creates repeats of the source file in reverse `N` times.
+
 <table style="border: none;">
     <tr>
         <td>
