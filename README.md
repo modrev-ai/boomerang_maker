@@ -48,7 +48,7 @@ python video_processing.py <input_file> <output_file> [--start_time START_TIME] 
 
 ## Example
 ```bash
-python video_processing.py whatsapp_hello_vid.mp4 output_video.mp4 --start_time 0 --end_time 0.8 --x_offset 200 --y_offset 100 --repetition 2 --playback_speed 0.8
+python boomerang_maker.py "input_file.mp4" "output_file.mp4" --start_time 0 --end_time 0.8 --x_offset 200 --y_offset 100 --repetition 2 --playback_speed 0.8
 ```
 
 This command will process the `whatsapp_hello_vid.mp4` video file and save the output to `output_video.mp4` with the specified parameters.
